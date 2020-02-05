@@ -1,5 +1,5 @@
 # indesign.page-shuffle
-Script to suffle pages by input-index – made for sonnenzimmer. 
+Script to suffle pages by input-index – made for sonnenzimmer.  
 This script is made for InDesign. So we can not use some fancy JavaScript but just old ECMAScript 3.
 
 ## installation
